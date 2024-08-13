@@ -1,3 +1,4 @@
+#!/Library/Frameworks/Python.framework/Versions/3.12/bin/python3
 import sys
 
 # Define valid unconditional branch opcodes and their fixed bit patterns
